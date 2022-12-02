@@ -31,7 +31,7 @@
  - //FALSE : 7 is not greater than 7. It's the same number
   
 	d <- 4 < 4
- - //FALSE : 4 is not less then itself
+ - //FALSE : 4 is not less than itself
   
 	e <- 100 <= 90
  - //FALSE : Due to operator says if is 100 less or equal than 90 number. In this case is greater than the first number.
