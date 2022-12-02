@@ -20,7 +20,7 @@
 ---
 ## ---Boolean results---
 
-Algoritmo boolean
+
 	a <- 5 == 3
  - //FALSE : Due that those numbers are being compared to determinate if they're similar
   
